@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HERVE CLAUDEL INEZA</h1>
 <h3 align="center">A passionate of software development</h3>
 
-- 🌱 I’m currently learning **Python , Java, etc**
+- 🌱 I’m currently learning **Python and Java**
 
 - 📫 How to reach me **inezaherve8@gmail.com**
 
