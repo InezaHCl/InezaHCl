@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HERVE CLAUDEL INEZA</h1>
+<h1 align="center">Hello, World! 👋, I'm HERVE CLAUDEL INEZA</h1>
 <h3 align="center">A passionate of software development</h3>
 
 - 🌱 I’m currently learning **Python and Java**
