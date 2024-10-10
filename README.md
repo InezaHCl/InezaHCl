@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **Python and Java**
 
 - 📫 How to reach me **inezaherve8@gmail.com**
+- My Portfolio Website <a href="https://ineza-portfolio.netlify.app/">Click here😉</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
