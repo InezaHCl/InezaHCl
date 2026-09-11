@@ -1,7 +1,7 @@
 <h1 align="center">Hello, World! 👋, I'm HERVE CLAUDEL INEZA</h1>
 <h3 align="center">A passionate of software development</h3>
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **inezaherve8@gmail.com**
 - My Portfolio Website <a href="https://ineza-portfolio.netlify.app/">Click here😉</a>
